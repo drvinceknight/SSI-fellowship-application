@@ -1,7 +1,7 @@
 # Software Sustainability Institute 2015 Fellowship Application
 
-[Live application
-form](http://www.software.ac.uk/fellowship-programme-2016-application-form)
+[Information about the
+fellowship](https://www.software.ac.uk/fellowship-programme).
 
 **Name**: Vincent Knight
 
